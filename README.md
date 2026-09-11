@@ -254,21 +254,6 @@ Run unit tests via command line:
 ./gradlew testDebugUnitTest
 ```
 
----
-
-## Screenshots
-
-*(Screenshots can be added here)*
-
-| Login Screen | Dashboard | Announcements |
-|:---:|:---:|:---:|
-| *(Add Login Screenshot)* | *(Add Dashboard Screenshot)* | *(Add Notices Screenshot)* |
-
-| Helpdesk / Complaints | Ticket Detail & Status | Facility Reservations |
-|:---:|:---:|:---:|
-| *(Add Helpdesk Screenshot)* | *(Add Status Workflow Screenshot)* | *(Add Bookings Screenshot)* |
-
----
 
 ## Known Limitations
 
